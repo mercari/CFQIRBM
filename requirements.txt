@@ -1,0 +1,8 @@
+numpy==1.14.5
+jupyter==1.0.0
+dwave-cloud-client==0.4.6
+dwave-system==0.3.2
+dimod==0.6.13
+matplotlib==2.2.2
+minorminer==0.1.4
+futures; python_version=="2.7"
